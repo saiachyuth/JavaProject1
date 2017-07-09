@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class count
 {
-	public static void main (String[] args) throws java.lang.Exception
+	public static void main (String[] args)
 	{
 	  int n;
 	  int c=0;
