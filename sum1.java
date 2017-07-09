@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class sum1
 {
-	public static void main (String[] args) throws java.lang.Exception
+	public static void main (String[] args)
 	{
 	  int x1,i;
 	  int s1=0;
